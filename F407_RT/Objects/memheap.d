@@ -1,0 +1,12 @@
+.\objects\memheap.o: Projects\kernel\src\memheap.c
+.\objects\memheap.o: .\Projects\kernel\include\rthw.h
+.\objects\memheap.o: .\Projects\kernel\include\rtthread.h
+.\objects\memheap.o: .\Projects\kernel\bsp\rtconfig.h
+.\objects\memheap.o: .\Projects\kernel\include\rtdebug.h
+.\objects\memheap.o: .\Projects\kernel\include\rtdef.h
+.\objects\memheap.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\memheap.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\memheap.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\memheap.o: .\Projects\kernel\include\rtservice.h
+.\objects\memheap.o: .\Projects\kernel\include\rtm.h
+.\objects\memheap.o: .\Projects\kernel\include\rtthread.h

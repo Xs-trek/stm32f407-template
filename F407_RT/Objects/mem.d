@@ -1,0 +1,12 @@
+.\objects\mem.o: Projects\kernel\src\mem.c
+.\objects\mem.o: .\Projects\kernel\include\rthw.h
+.\objects\mem.o: .\Projects\kernel\include\rtthread.h
+.\objects\mem.o: .\Projects\kernel\bsp\rtconfig.h
+.\objects\mem.o: .\Projects\kernel\include\rtdebug.h
+.\objects\mem.o: .\Projects\kernel\include\rtdef.h
+.\objects\mem.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mem.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\mem.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\mem.o: .\Projects\kernel\include\rtservice.h
+.\objects\mem.o: .\Projects\kernel\include\rtm.h
+.\objects\mem.o: .\Projects\kernel\include\rtthread.h

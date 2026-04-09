@@ -1,0 +1,11 @@
+.\objects\device.o: Projects\kernel\src\device.c
+.\objects\device.o: .\Projects\kernel\include\rtthread.h
+.\objects\device.o: .\Projects\kernel\bsp\rtconfig.h
+.\objects\device.o: .\Projects\kernel\include\rtdebug.h
+.\objects\device.o: .\Projects\kernel\include\rtdef.h
+.\objects\device.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\device.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\device.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\device.o: .\Projects\kernel\include\rtservice.h
+.\objects\device.o: .\Projects\kernel\include\rtm.h
+.\objects\device.o: .\Projects\kernel\include\rtthread.h

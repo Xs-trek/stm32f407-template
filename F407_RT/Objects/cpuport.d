@@ -1,0 +1,11 @@
+.\objects\cpuport.o: Projects\kernel\libcpu\arm\cortex-m4\cpuport.c
+.\objects\cpuport.o: .\Projects\kernel\include\rtthread.h
+.\objects\cpuport.o: .\Projects\kernel\bsp\rtconfig.h
+.\objects\cpuport.o: .\Projects\kernel\include\rtdebug.h
+.\objects\cpuport.o: .\Projects\kernel\include\rtdef.h
+.\objects\cpuport.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\cpuport.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\cpuport.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\cpuport.o: .\Projects\kernel\include\rtservice.h
+.\objects\cpuport.o: .\Projects\kernel\include\rtm.h
+.\objects\cpuport.o: .\Projects\kernel\include\rtthread.h

@@ -1,0 +1,13 @@
+.\objects\signal.o: Projects\kernel\src\signal.c
+.\objects\signal.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\signal.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\signal.o: .\Projects\kernel\include\rthw.h
+.\objects\signal.o: .\Projects\kernel\include\rtthread.h
+.\objects\signal.o: .\Projects\kernel\bsp\rtconfig.h
+.\objects\signal.o: .\Projects\kernel\include\rtdebug.h
+.\objects\signal.o: .\Projects\kernel\include\rtdef.h
+.\objects\signal.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\signal.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\signal.o: .\Projects\kernel\include\rtservice.h
+.\objects\signal.o: .\Projects\kernel\include\rtm.h
+.\objects\signal.o: .\Projects\kernel\include\rtthread.h

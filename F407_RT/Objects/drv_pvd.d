@@ -1,0 +1,11 @@
+.\objects\drv_pvd.o: Projects\bsp\src\drv_pvd.c
+.\objects\drv_pvd.o: .\Projects\bsp\inc\drv_pvd.h
+.\objects\drv_pvd.o: .\Projects\CMSIS\mcu\stm32f4xx.h
+.\objects\drv_pvd.o: .\Projects\CMSIS\mcu\stm32f407xx.h
+.\objects\drv_pvd.o: .\Projects\CMSIS\cortexm4\core_cm4.h
+.\objects\drv_pvd.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\drv_pvd.o: .\Projects\CMSIS\cortexm4\cmsis_version.h
+.\objects\drv_pvd.o: .\Projects\CMSIS\cortexm4\cmsis_compiler.h
+.\objects\drv_pvd.o: .\Projects\CMSIS\cortexm4\cmsis_armcc.h
+.\objects\drv_pvd.o: .\Projects\CMSIS\cortexm4\mpu_armv7.h
+.\objects\drv_pvd.o: .\Projects\CMSIS\mcu\system_stm32f4xx.h

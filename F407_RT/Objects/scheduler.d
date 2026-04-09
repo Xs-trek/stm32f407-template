@@ -1,0 +1,12 @@
+.\objects\scheduler.o: Projects\kernel\src\scheduler.c
+.\objects\scheduler.o: .\Projects\kernel\include\rtthread.h
+.\objects\scheduler.o: .\Projects\kernel\bsp\rtconfig.h
+.\objects\scheduler.o: .\Projects\kernel\include\rtdebug.h
+.\objects\scheduler.o: .\Projects\kernel\include\rtdef.h
+.\objects\scheduler.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\scheduler.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\scheduler.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\scheduler.o: .\Projects\kernel\include\rtservice.h
+.\objects\scheduler.o: .\Projects\kernel\include\rtm.h
+.\objects\scheduler.o: .\Projects\kernel\include\rtthread.h
+.\objects\scheduler.o: .\Projects\kernel\include\rthw.h

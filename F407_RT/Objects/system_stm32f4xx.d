@@ -1,0 +1,10 @@
+.\objects\system_stm32f4xx.o: Projects\CMSIS\src\system_stm32f4xx.c
+.\objects\system_stm32f4xx.o: .\Projects\CMSIS\mcu\stm32f4xx.h
+.\objects\system_stm32f4xx.o: .\Projects\CMSIS\mcu\stm32f407xx.h
+.\objects\system_stm32f4xx.o: .\Projects\CMSIS\cortexm4\core_cm4.h
+.\objects\system_stm32f4xx.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_stm32f4xx.o: .\Projects\CMSIS\cortexm4\cmsis_version.h
+.\objects\system_stm32f4xx.o: .\Projects\CMSIS\cortexm4\cmsis_compiler.h
+.\objects\system_stm32f4xx.o: .\Projects\CMSIS\cortexm4\cmsis_armcc.h
+.\objects\system_stm32f4xx.o: .\Projects\CMSIS\cortexm4\mpu_armv7.h
+.\objects\system_stm32f4xx.o: .\Projects\CMSIS\mcu\system_stm32f4xx.h

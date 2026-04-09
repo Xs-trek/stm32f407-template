@@ -1,0 +1,12 @@
+.\objects\ipc.o: Projects\kernel\src\ipc.c
+.\objects\ipc.o: .\Projects\kernel\include\rtthread.h
+.\objects\ipc.o: .\Projects\kernel\bsp\rtconfig.h
+.\objects\ipc.o: .\Projects\kernel\include\rtdebug.h
+.\objects\ipc.o: .\Projects\kernel\include\rtdef.h
+.\objects\ipc.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ipc.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\ipc.o: C:\Software\DESKTOP\Major_tools\source\mdk\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\ipc.o: .\Projects\kernel\include\rtservice.h
+.\objects\ipc.o: .\Projects\kernel\include\rtm.h
+.\objects\ipc.o: .\Projects\kernel\include\rtthread.h
+.\objects\ipc.o: .\Projects\kernel\include\rthw.h
